@@ -1,5 +1,8 @@
 # Hey there 👋
 
+
+function aboutMe() {
+
 console.log(
 
 "My name is Pranuj, and I...
@@ -12,8 +15,14 @@ enjoy creating user-friendly web apps"
 
 )
 
+}
+
+function myHobbies() {
+
 console.log(
 
 "when I'm not coding, I'm either in the gym, playing videogames, watching anime, or applying and getting rejected by a bunch of companies"
 
 )
+
+}
