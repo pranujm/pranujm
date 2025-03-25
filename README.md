@@ -14,6 +14,6 @@ enjoy creating user-friendly web apps"
 
 console.log(
 
-"when I'm not coding, I'm either in the gym, playing videogames, watching anime, or applying and getting rejected by a bunch of companies"
+"when I'm not coding, I'm either in the gym, playing videogames, watching anime, or applying/getting rejected by a bunch of companies"
 
 )
