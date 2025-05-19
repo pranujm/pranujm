@@ -25,7 +25,7 @@ function myHobbies() {
         
         "when I'm not coding, I'm either in the gym, playing videogames, watching anime, 
         
-        listening to music, or mass applying to companies"
+        listening to music, thrifting, or mass applying to companies"
 
         )
         
