@@ -1,35 +1,20 @@
 # About Me:
 
 ```
-function aboutMe() {
+def about_me():
 
-        console.log(
+        print(
         
         "My name is Pranuj, and I...
         
-        am a CS major and Graphic Design minor @ RPI
+        am a CS major and Data Science & Engineering minor @ RPI
         
-        am a front-end software developer actively looking for swe/web dev internships
-        
-        enjoy creating user-friendly web apps"
+        I have some experience with web development, data science, machine learning, and quantum computing
+
+        I am actively looking for data science, machine learning, or quantum computing research internships
 
         )
-        
-}
-```
-        
-```     
-function myHobbies() {
 
-        console.log(
-        
-        "when I'm not coding, I'm either in the gym, playing videogames, watching anime, 
-        
-        listening to music, thrifting, or mass applying to companies"
-
-        )
-        
-}
 ```
 
 # 🌐 Socials:
