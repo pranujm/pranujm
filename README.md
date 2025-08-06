@@ -1,21 +1,18 @@
 # About Me:
 
-```
-def about_me():
 
-        print(
-        
-        "My name is Pranuj, and I...
-        
-        am a CS major and Data Science & Engineering minor @ RPI
-        
-        I have some experience with web development, data science, machine learning, and quantum computing
 
-        I am actively looking for data science, machine learning, or quantum computing research internships
+My name is Pranuj, and I am currently a Sophomore at Rensselaer Polytechnic Institute.
 
-        )
+My major is Computer Science and I am minoring in Data Science & Engineering. 
 
-```
+I have experience with Python and SQL for data analytics, data science, machine learning, and quantum computing. 
+
+I am actively looking for data analysis, data science, machine learning, or quantum computing research internships. 
+
+Feel free to connect with me through my socials below! 
+
+
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranujm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pmandavia24@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/pranujm_) 
