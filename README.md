@@ -6,7 +6,7 @@ My major is Computer Science and I am minoring in Data Science & Engineering.
 
 I have experience with Python and SQL for data analytics, data science, machine learning, and quantum computing. 
 
-I am actively looking for data analysis, data science, machine learning, or quantum computing research internships. 
+I am actively looking for data analysis, data science, machine learning, or quantum computing internships. 
 
 Feel free to connect with me through my socials below! 
 
