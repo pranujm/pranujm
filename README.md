@@ -8,7 +8,7 @@ I have experience with Python and SQL for data analytics, data science, machine 
 
 I am qualified for data analysis and data science internships, as well as machine learning and quantum computing research positions. 
 
-Feel free to view the technologies I use and connect with me through my socials below! 
+You can view my tech stack and connect with me through my socials below! 
 
 
 ## Socials:
