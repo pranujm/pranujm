@@ -1,14 +1,12 @@
 ## About Me:
 
-My name is Pranuj, and I am currently a Sophomore at Rensselaer Polytechnic Institute.
+Hi, I’m Pranuj, a Sophomore at Rensselaer Polytechnic Institute majoring in Computer Science with a minor in Data Science & Engineering.
 
-My major is Computer Science and I am minoring in Data Science & Engineering. 
+I have hands-on experience with SQL and Python, using libraries for data visualization, analysis, machine learning, and quantum computing.
 
-I have experience with Python and SQL for data analytics, data science, machine learning, and quantum computing. 
+I’m actively seeking internships in data analysis, data science, machine learning, and quantum computing.
 
-I am qualified for data analysis/science internships, as well as machine learning and quantum computing research positions. 
-
-You can view my tech stack and connect with me through my socials below! 
+Feel free to check out my tech stack and connect with me through my socials below!
 
 
 ## Socials:
