@@ -3,13 +3,11 @@
 </p>
 
 
-I'm Pranuj, a **Computer Science** student at **Rensselaer Polytechnic Institute** with a concentration in **AI, ML, & Data Science**. 
+i'm a **computer science** student at **rensselaer polytechnic institute** with a concentration in **AI, ML, & data science**. 
 
-Alongside Computer Science, I am minoring in **Data Science & Engineering (DSE)** and **Economics**. 
+i enjoy leveraging **data** and **technology** to generate meaningful insights across industries such as business and healthcare. 
 
-I enjoy leveraging **data** and **technology** to generate meaningful insights across industries such as business and healthcare. 
-
-I’m actively seeking summer 2026 internships in **data science**, **ML**, and **quantum computing research**.  
+i’m actively seeking summer 2026 internships in **data science**, **ML**, and **quantum computing research**.  
 
 ### socials:
 
