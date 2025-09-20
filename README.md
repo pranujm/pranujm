@@ -19,7 +19,7 @@ i’m actively seeking summer 2026 internships in **data science**, **ML**, and 
 
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pmandavia24@gmail.com) 
 
-### tech stack:
+### skills:
 
 <hr style="border: 0; height: 0.025px; background: #444;">
 
