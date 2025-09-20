@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=hello!&height=100&section=header"/>
 </p>
 
+
 I'm Pranuj, a **Computer Science** student at **Rensselaer Polytechnic Institute** with a concentration in **AI, ML, & Data Science**. 
 
 My minors are **Data Science & Engineering (DSE)** and **Economics**. 
@@ -20,13 +21,15 @@ I’m actively seeking summer 2026 internships in **data analysis/science/engine
 
 ### tech stack:
 
-<hr style="border: 0; height: 0.05px; background: #444;">
+<hr style="border: 0; height: 0.025px; background: #444;">
 
 **languages**: Python, SQL, C++, JavaScript, HTML/CSS 
 
 **libraries / frameworks**: Pandas, NumPy, Matplotlib, PyTorch, Scikit Learn, TensorFlow
 
 **database management systems**: MySQL, PostgreSQL
+
+**platforms / tools**: Jupyter Notebooks, Visual Studio Code, MATLAB, Figma
 
 **version control**: Git, GitHub
 
