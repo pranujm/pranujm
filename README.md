@@ -27,7 +27,7 @@ I’m actively seeking summer 2026 internships in **data analysis/science/engine
 
 **libraries / frameworks**: Pandas, NumPy, Matplotlib, PyTorch, Scikit Learn, TensorFlow
 
-**database management systems**: MySQL, PostgreSQL
+**database management systems**: MySQL, PostgreSQL, Supabase
 
 **platforms / tools**: Jupyter Notebooks, Visual Studio Code, MATLAB, Figma
 
