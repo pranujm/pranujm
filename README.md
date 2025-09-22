@@ -23,15 +23,61 @@ i’m actively seeking summer 2026 internships in **data science**, **ML**, and 
 
 <hr style="border: 0; height: 0.025px; background: #444;">
 
-**languages**: Python, SQL, C++, JavaScript, HTML/CSS 
+**languages**:
 
-**libraries / frameworks**: Pandas, NumPy, Matplotlib, PyTorch, Scikit Learn, TensorFlow
+<span>
+    <br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height='40px' title="Python">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height='40px' title="SQL">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height='40px' title="C++">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='40px' title="JavaScript">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height='40x' title="HTML">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height='40px' title="CSS">
+    </br>
+</span>
 
-**database management systems**: MySQL, PostgreSQL, Supabase
+<br> **libraries / frameworks**: </br> 
 
-**platforms / tools**: Jupyter Notebooks, Visual Studio Code, MATLAB, Figma
+<span>
+    <br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height='40px' title="Pandas">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height='40px' title="NumPy">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height='40px' title="Matplotlib">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height='40px' title="PyTorch">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height='40px' title="Scikit Learn">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height='40px' title="TensorFlow">
+    </br>
+</span>
 
-**version control**: Git, GitHub
+<br> **database management systems**: </br>
+
+<span>
+    <br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height='40px' title="MySQL">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height='40px' title="PostgreSQL">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height='40px' title="Supabase">
+    </br>
+</span>
+
+<br> **platforms / tools**: </br>
+
+<span>
+    <br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height='40px' title="Jupyter Notebook">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height='40px' title="VS Code">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height='40px' title="MATLAB">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height='40px' title="Figma">
+    </br>
+</span>
+
+<br> **version control**: </br>
+
+<span>
+    <br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height='40px' title="Git">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height='40px' title='GitHub'>
+    </br>
+</span>
 
 
 <p align="center">
