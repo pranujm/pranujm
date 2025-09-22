@@ -47,13 +47,14 @@ i’m actively seeking summer 2026 internships in **data science**, **ML**, and 
     </br>
 </span>
 
-<br> **database management systems**: </br>
+<br> **database management / version control**: </br>
 
 <span>
     <br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height='35px' title="MySQL">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height='35px' title="PostgreSQL">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height='35px' title="Supabase">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height='35px' title="Git">
     </br>
 </span>
 
@@ -67,16 +68,6 @@ i’m actively seeking summer 2026 internships in **data science**, **ML**, and 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height='35px' title="Figma">
     </br>
 </span>
-
-<br> **version control**: </br>
-
-<span>
-    <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height='35px' title="Git">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height='35px' title='GitHub'>
-    </br>
-</span>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
