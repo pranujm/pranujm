@@ -3,11 +3,13 @@
 </p>
 
 
-    i'm a **computer science** student at **rensselaer polytechnic institute** with a concentration in **AI, ML, & data science**. 
+    > computer science student at Rensselaer Polytechnic Institute
+    
+    > concentration in AI, ML, & data science 
 
-    i enjoy leveraging **data** and **technology** to generate meaningful insights across industries such as business and healthcare. 
-
-    i’m actively seeking summer 2026 internships in **data science**, **ML**, and **quantum computing research**. 
+    > always building data-driven projects and exploring new tech
+    
+    > actively seeking internships in ML, data science, & quantum computing research 
 <br></br>
 ### skills:
 
