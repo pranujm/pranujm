@@ -2,14 +2,26 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=hello!&height=100&section=header"/>
 </p>
 
-
-    > computer science student at Rensselaer Polytechnic Institute
+    def aboutMe(description):
     
-    > concentration in AI, ML, & data science 
-
-    > always building data-driven projects and exploring new tech
+        description = [
+        
+            "computer science student at Rensselaer Polytechnic Institute",
+            
+            "concentration in AI, ML, & data science",
+            
+            "always building data-driven projects and exploring new tech",
+            
+            "actively seeking internships in ML, data science, & quantum computing research"
+            
+          ]
+          
+    for sentence in description:
     
-    > actively seeking internships in ML, data science, & quantum computing research 
+        print(sentence)
+
+    aboutMe(description)
+    
 <br></br>
 ### skills:
 
