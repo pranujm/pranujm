@@ -22,7 +22,7 @@
 
 > languages: Python, C++, C, SQL
 > data analysis / visualization: Pandas, NumPy, SciPy, Matplotlib, Seaborn
-> ml / quantum computing: Scikit-Learn, PyTorch, TensorFlow, Qiskit
+> ML / quantum computing: Scikit-Learn, PyTorch, TensorFlow, Qiskit
 > tools / databases: Git, GitHub, MySQL, PostgreSQL, Supabase
 
 ````
@@ -33,10 +33,10 @@
 
 > help --contact
 
-> gmail: pmandavia24@gmail.com
-> outlook: mandap@rpi.edu
-> linkedin: https://www.linkedin.com/in/pranujm
-> instagram: https://www.instagram.com/pranujm_
+> ✉️ gmail: pmandavia24@gmail.com
+> 📫 outlook: mandap@rpi.edu
+> 💼 linkedin: https://www.linkedin.com/in/pranujm
+> 📷 instagram: https://www.instagram.com/pranujm_
 
 ````
 
