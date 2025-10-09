@@ -6,13 +6,13 @@
     
         description = [
         
-            "computer science student at Rensselaer Polytechnic Institute",
+            'computer science student at Rensselaer Polytechnic Institute',
             
-            "concentration in AI, ML, & data science",
+            'concentration in AI, ML, & data science',
             
-            "always building data-driven projects and exploring new tech",
+            'always building data-driven projects and exploring new tech',
             
-            "actively seeking internships in ML, data science, & quantum computing research"
+            'actively seeking internships in ML, data science, & quantum computing research'
             
           ]
           
@@ -23,57 +23,26 @@
     aboutMe()
     
 <br></br>
-### skills:
 
-<hr style="border: 0; height: 0.025px; background: #444;">
+     def mySkills():
+    
+        skills = {
+        
+            'Languages': ['Python', 'C++', 'C', 'SQL'],
+            
+            'Data Analysis & Visualization': ['Pandas', 'NumPy', 'SciPy', 'Matplotlib', 'Seaborn'],
+            
+            'ML & Quantum Computing': ['Scikit-Learn', 'PyTorch', 'TensorFlow', 'Qiskit'],
 
-**languages**:
+            'Tools & Databases': ['Git', 'GitHub', 'MySQL', 'PostgreSQL', 'Supabase']
+     
+          }
 
-<span>
-    <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height='35px' title="Python">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height='35px' title="SQL">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height='35px' title="C++">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='35px' title="JavaScript">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height='35x' title="HTML">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height='35px' title="CSS">
-    </br>
-</span>
-
-<br> **libraries / frameworks**: </br> 
-
-<span>
-    <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height='35px' title="Pandas">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height='35px' title="NumPy">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height='35px' title="Matplotlib">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height='35px' title="PyTorch">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height='35px' title="Scikit Learn">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height='35px' title="TensorFlow">
-    </br>
-</span>
-
-<br> **database management / version control**: </br>
-
-<span>
-    <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height='35px' title="MySQL">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height='35px' title="PostgreSQL">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height='35px' title="Supabase">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height='35px' title="Git">
-    </br>
-</span>
-
-<br> **platforms / tools**: </br>
-
-<span>
-    <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height='35px' title="Jupyter Notebook">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height='35px' title="VS Code">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height='35px' title="MATLAB">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height='35px' title="Figma">
-    </br>
-</span>
+        for category, items in skills.items():
+        
+            print(f'{category}: {', '.join(items)}')
+  
+    mySkills()
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
