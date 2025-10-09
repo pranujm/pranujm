@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=hello!&height=100&section=header"/>
 </p>
 
-    def aboutMe(description):
+    def aboutMe():
     
         description = [
         
@@ -20,7 +20,7 @@
     
         print(sentence)
 
-    aboutMe(description)
+    aboutMe()
     
 <br></br>
 ### skills:
