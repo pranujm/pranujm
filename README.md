@@ -32,6 +32,18 @@
 
 ````bash
 
+> help --projects
+
+> currently working on:
+> comparing quantum & classical algorithms for finance portfolio optimization
+> building an LLM using python to analyze biological data for bioinformatics
+
+````
+    
+<br></br>
+
+````bash
+
 > help --contact
 
 > ✉️ gmail: pmandavia24@gmail.com
