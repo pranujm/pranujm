@@ -24,7 +24,7 @@
 > languages: Python, C++, SQL
 > data analysis / visualization: Pandas, NumPy, SciPy, Matplotlib, Seaborn
 > ML / quantum computing: Scikit-Learn, PyTorch, TensorFlow, Qiskit
-> tools / databases: Git, GitHub, MySQL, PostgreSQL, Supabase
+> tools / databases: Jupyter, Git, GitHub, MySQL, PostgreSQL, Supabase, Streamlit
 
 ````
     
