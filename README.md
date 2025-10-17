@@ -21,7 +21,7 @@
 
 > help --skills
 
-> languages: Python, C++, SQL
+> languages: Python, SQL, TypeScript, JavaScript, HTML/CSS, C/C++
 > data analysis / visualization: Pandas, NumPy, SciPy, Matplotlib, Seaborn
 > ML / quantum computing: Scikit-Learn, PyTorch, TensorFlow, Qiskit
 > tools / databases: Jupyter, Git, GitHub, MySQL, PostgreSQL, Supabase, Streamlit
