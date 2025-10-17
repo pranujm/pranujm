@@ -10,7 +10,7 @@
 > computer science student at Rensselaer Polytechnic Institute
 > concentration in AI, ML, & data science
 > always building data-driven projects and exploring new tech
-> actively seeking internships in ML, data science, & quantum computing research
+> actively seeking internships in ML, data science, and software development
 > love listening to music, watching anime, programming, & going to the gym
 
 ````
@@ -22,9 +22,11 @@
 > help --skills
 
 > languages: Python, SQL, TypeScript, JavaScript, HTML/CSS, C/C++
-> data analysis / visualization: Pandas, NumPy, SciPy, Matplotlib, Seaborn
+> data analysis / visualization: Pandas, NumPy, SciPy, Matplotlib
 > ML / quantum computing: Scikit-Learn, PyTorch, TensorFlow, Qiskit
-> tools / databases: Jupyter, Git, GitHub, MySQL, PostgreSQL, Supabase, Streamlit
+> frameworks: React, Tailwind CSS, Streamlit
+> databases: MySQL, PostgreSQL, Supabase
+> tools: Jupyter, Git, GitHub
 
 ````
     
