@@ -9,9 +9,9 @@
 
 > computer science student at Rensselaer Polytechnic Institute
 > concentration in AI, ML, & data science
-> always building data-driven projects and exploring new tech
-> actively seeking internships in ML, data analysis, and data science
-> love listening to music, watching anime, programming, & going to the gym
+> minor in quantum computing 
+> seeking internships in ML & data science
+> hobbies: music, anime, manga/comics, gym
 
 ````
 
