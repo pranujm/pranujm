@@ -21,7 +21,7 @@
 > help --skills
 
 > languages: Python, SQL, R, C/C++, TypeScript, HTML/CSS
-> libraries: Pandas, NumPy, SciPy, Matplotlib, Scikit-Learn, PyTorch, TensorFlow, Qiskit, Sreamlit
+> libraries: Pandas, NumPy, SciPy, Matplotlib, Scikit-Learn, PyTorch, Qiskit
 > tools/databases: MySQL, PostgreSQL, Supabase, Jupyter Notebook, Microsoft Excel
 
 ````
