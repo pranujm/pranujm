@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&text=hello!&height=100&section=header"/>
+</p>
+
 ## welcome 👋
 <br></br>
 I am Pranuj Mandavia, an aspiring data scientist based in New Jersey. 
@@ -19,3 +23,6 @@ Building ETL pipelines, designing databases, and automating lead tracking workfl
 * 💼 linkedin: https://www.linkedin.com/in/pranujm
 * 📷 instagram: https://www.instagram.com/pranujm
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=100&section=footer"/>
+</p>
