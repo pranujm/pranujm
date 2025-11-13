@@ -1,21 +1,26 @@
 ## welcome 👋
-
-I am Pranuj Mandavia, an aspiring data scientist based in New Jersey.
 <br></br>
-### about me
+I am Pranuj Mandavia, an aspiring data scientist based in New Jersey. 
 
-* studying <span style="color: blue">CS (AI/Ml & data science)</span> @ RPI
+Currently studying **CS (AI/ML, data science)** & **quantum computing** @ **Rensselaer Polytechnic Institute**.
 
-* studying & researching <span style="color: blue">quantum computing</span> also @ RPI
+Building ETL pipelines, designing databases, and automating lead tracking workflows as a **data analyst intern** @ Beyond AI. 
 
-* <span style="color: blue">data analyst intern</span> @ Beyond AI
-
-  * building ETL pipelines
-  * designing databases
-  * automating lead tracking workflows
 <br></br>
-### skills
 
-* <span style="color: blue">languages</span>: Python, SQL, R, C/C++
-* <span style="color: blue">libraries</span>: Pandas, NumPy, SciPy, Matplotlib, Qiksit, Scikit-Learn, PyTorch
-* <span style="color: blue">tools</span>: MySQL, PostgreSQL, Supabase, Jupyter Notebook, Microsoft Excel
+### ⚙️  tech stack
+
+* languages: Python, SQL, R, C/C++
+* libraries: Pandas, NumPy, SciPy, Matplotlib, Qiksit, Scikit-Learn, PyTorch
+* tools: MySQL, PostgreSQL, Supabase, Jupyter Notebook, Microsoft Excel
+
+    
+<br></br>
+
+### ✉️ contact
+
+* ✉️ gmail: pmandavia24@gmail.com
+* 📫 outlook: mandap@rpi.edu
+* 💼 linkedin: https://www.linkedin.com/in/pranujm
+* 📷 instagram: https://www.instagram.com/pranujm
+
