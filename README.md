@@ -16,19 +16,19 @@
 
 <br></br>
 
-````txt
+````bash
 
 > help --skills
 
 > languages: Python, SQL, R, C/C++, TypeScript, HTML/CSS
-> libraries: Pandas, NumPy, SciPy, Matplotlib, Scikit-Learn, PyTorch, Qiskit
-> tools/databases: MySQL, PostgreSQL, Supabase, Jupyter Notebook, Microsoft Excel
+> libraries: Pandas, NumPy, SciPy, Matplotlib, Qiksit, Scikit-Learn, PyTorch
+> tools: MySQL, PostgreSQL, Supabase, Jupyter Notebook, Microsoft Excel
 
 ````
     
 <br></br>
 
-````txt
+````bash
 
 > help --contact
 
