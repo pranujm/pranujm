@@ -3,7 +3,7 @@
 
 </p>
 
-````bash
+````txt
 
 > help --info
 
@@ -16,7 +16,7 @@
 
 <br></br>
 
-````bash
+````txt
 
 > help --skills
 
@@ -28,7 +28,7 @@
     
 <br></br>
 
-````bash
+````txt
 
 > help --contact
 
