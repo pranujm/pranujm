@@ -11,6 +11,8 @@ Currently studying **CS (AI/ML, data science)** & **quantum computing** @ **Rens
 Building ETL pipelines, designing databases, & automating lead tracking workflows as a **data analyst intern** @ Beyond AI. 
 
 Currently working on quantum algorithms for finance portfolio optimization & machine learning for bioinformatics.
+
+Academics aside, I enjoy listening to music, hitting the gym, anime, manga/comics, and wishing I had a cat.
 <br></br>
 ### ⚙️  tech stack
 
