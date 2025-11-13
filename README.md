@@ -3,13 +3,13 @@
 
 </p>
 
-````txt
+````bash
 
 > help --info
 
-> studying CS @ RPI with a concentration in AI/ML & data science
-> pursuing a quantum computing minor also @ RPI
-> seeking internships in ML, data science, & data analysis
+> computer science & quantum computing @ RPI
+> currently a data analyst intern @ Beyond AI
+> seeking internships in ML, data science, data analysis
 > other interests: music, gym, anime, manga/comics, cats
 
 ````
@@ -20,7 +20,7 @@
 
 > help --skills
 
-> languages: Python, SQL, C/C++, TypeScript, HTML/CSS
+> languages: Python, SQL, R, C/C++, TypeScript, HTML/CSS
 > libraries: Pandas, NumPy, SciPy, Matplotlib, Scikit-Learn, PyTorch, TensorFlow, Qiskit, Sreamlit
 > tools/databases: MySQL, PostgreSQL, Supabase, Jupyter Notebook, Microsoft Excel
 
