@@ -10,7 +10,7 @@
 > studying CS @ RPI with a concentration in AI/ML & data science
 > pursuing a quantum computing minor also @ RPI
 > seeking internships in ML, data science, & data analysis
-> other interests: music, anime, manga/comics, gym, cats
+> other interests: music, gym, anime, manga/comics, cats
 
 ````
 
