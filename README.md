@@ -4,7 +4,7 @@
 
 ## welcome 👋
 <br></br>
-I am Pranuj Mandavia, an aspiring data scientist based in New Jersey. Currently studying **CS** @ **RPI**.
+I am Pranuj Mandavia, an aspiring data scientist based in New Jersey. Currently studying **computer science** @ **RPI**.
 
 Building ETL pipelines, designing databases, and automating lead tracking workflows as a **data analyst intern** @ Beyond AI. 
 
