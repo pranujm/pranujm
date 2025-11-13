@@ -4,9 +4,7 @@
 
 ## welcome 👋
 <br></br>
-I am Pranuj Mandavia, an aspiring data scientist based in New Jersey. 
-
-Currently studying **CS** (concentration in **AI/ML, data science**) & **quantum computing** @ **Rensselaer Polytechnic Institute**.
+I am Pranuj Mandavia, an aspiring data scientist based in New Jersey. Currently studying **CS** @ **Rensselaer Polytechnic Institute**.
 
 Building ETL pipelines, designing databases, and automating lead tracking workflows as a **data analyst intern** @ Beyond AI. 
 
