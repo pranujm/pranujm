@@ -1,46 +1,21 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&text=hello!&height=100&section=header"/>
+## welcome 👋
 
-</p>
-
-````bash
-
-> help --info
-
-> computer science & quantum computing @ RPI
-> currently a data analyst intern @ Beyond AI
-> seeking internships in ML, data science, data analysis
-> other interests: music, gym, anime, manga/comics, cats
-
-````
-
+I am Pranuj Mandavia, an aspiring data scientist based in New Jersey.
 <br></br>
+### about me
 
-````bash
+* studying <span style="color: blue">CS (AI/Ml & data science)</span> @ RPI
 
-> help --skills
+* studying & researching <span style="color: blue">quantum computing</span> also @ RPI
 
-> languages: Python, SQL, R, C/C++, TypeScript, HTML/CSS
-> libraries: Pandas, NumPy, SciPy, Matplotlib, Qiksit, Scikit-Learn, PyTorch
-> tools: MySQL, PostgreSQL, Supabase, Jupyter Notebook, Microsoft Excel
+* <span style="color: blue">data analyst intern</span> @ Beyond AI
 
-````
-    
+  * building ETL pipelines
+  * designing databases
+  * automating lead tracking workflows
 <br></br>
+### skills
 
-````bash
-
-> help --contact
-
-> ✉️ gmail: pmandavia24@gmail.com
-> 📫 outlook: mandap@rpi.edu
-> 💼 linkedin: https://www.linkedin.com/in/pranujm
-> 📷 instagram: https://www.instagram.com/pranujm_
-
-````
-
-     
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=100&section=footer"/>
-</p>
+* <span style="color: blue">languages</span>: Python, SQL, R, C/C++
+* <span style="color: blue">libraries</span>: Pandas, NumPy, SciPy, Matplotlib, Qiksit, Scikit-Learn, PyTorch
+* <span style="color: blue">tools</span>: MySQL, PostgreSQL, Supabase, Jupyter Notebook, Microsoft Excel
