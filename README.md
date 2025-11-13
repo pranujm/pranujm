@@ -12,9 +12,9 @@ Building ETL pipelines, designing databases, and automating lead tracking workfl
 <br></br>
 ### ⚙️  tech stack
 
-* languages: Python, SQL, R, C/C++
-* libraries: Pandas, NumPy, SciPy, Matplotlib, Qiksit, Scikit-Learn, PyTorch
-* tools: MySQL, PostgreSQL, Supabase, Jupyter Notebook, Microsoft Excel
+* Languages: Python, SQL, R, C/C++
+* Libraries: Pandas, NumPy, SciPy, Matplotlib, Qiksit, Scikit-Learn, PyTorch
+* Tools: MySQL, PostgreSQL, Supabase, Jupyter Notebook, Microsoft Excel
 <br></br>
 ### ☎️  contact me
 
