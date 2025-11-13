@@ -8,9 +8,9 @@ I am Pranuj Mandavia, an aspiring data scientist based in New Jersey.
 
 Currently studying **CS (AI/ML, data science)** & **quantum computing** @ **Rensselaer Polytechnic Institute**.
 
-Building ETL pipelines, designing databases, and automating lead tracking workflows as a **data analyst intern** @ Beyond AI. 
+Building ETL pipelines, designing databases, & automating lead tracking workflows as a **data analyst intern** @ Beyond AI. 
 
-Currently working on quantum algorithms for finance portfolio optimization and machine learning for bioinformatics.
+Currently working on quantum algorithms for finance portfolio optimization & machine learning for bioinformatics.
 <br></br>
 ### ⚙️  tech stack
 
