@@ -7,11 +7,10 @@
 
 > help --info
 
-> computer science student at Rensselaer Polytechnic Institute
-> concentration in AI, ML, & data science
-> minor in quantum computing 
-> seeking internships in ML & data science
-> hobbies: music, anime, manga/comics, gym
+> studying CS @ RPI with a concentration in AI/ML & data science
+> pursuing a quantum computing minor also @ RPI
+> seeking internships in ML, data science, & data analysis
+> other interests: music, anime, manga/comics, gym, cats
 
 ````
 
