@@ -21,12 +21,9 @@
 
 > help --skills
 
-> languages: Python, SQL, C/C++, JavaScript, HTML/CSS
-> data analysis / visualization: Pandas, NumPy, SciPy, Matplotlib
-> ML / quantum computing: Scikit-Learn, PyTorch, TensorFlow, Qiskit
-> frameworks: React, Tailwind CSS, Streamlit
-> databases: MySQL, PostgreSQL, Supabase
-> tools: Jupyter, Git, GitHub
+> languages: Python, SQL, C/C++, TypeScript, HTML/CSS
+> libraries: Pandas, NumPy, SciPy, Matplotlib, Scikit-Learn, PyTorch, TensorFlow, Qiskit, Sreamlit
+> tools/databases: MySQL, PostgreSQL, Supabase, Jupyter Notebook, Microsoft Excel
 
 ````
     
