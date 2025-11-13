@@ -12,16 +12,16 @@ Building ETL pipelines, designing databases, and automating lead tracking workfl
 <br></br>
 ### ⚙️  tech stack
 
-* Languages: Python, SQL, R, C/C++
-* Libraries: Pandas, NumPy, SciPy, Matplotlib, Qiksit, Scikit-Learn, PyTorch
-* Tools: MySQL, PostgreSQL, Supabase, Jupyter Notebook, Microsoft Excel
+* **languages**: *Python, SQL, R, C/C++*
+* **libraries**: *Pandas, NumPy, SciPy, Matplotlib, Qiksit, Scikit-Learn, PyTorch*
+* **tools**: *MySQL, PostgreSQL, Supabase, Jupyter Notebook, Microsoft Excel*
 <br></br>
 ### ☎️  contact me
 
-* ✉️ gmail: pmandavia24@gmail.com
-* 📫 outlook: mandap@rpi.edu
-* 💼 linkedin: https://www.linkedin.com/in/pranujm
-* 📷 instagram: https://www.instagram.com/pranujm
+* ✉️ gmail: *pmandavia24@gmail.com*
+* 📫 outlook: *mandap@rpi.edu*
+* 💼 linkedin: *https://www.linkedin.com/in/pranujm*
+* 📷 instagram: *https://www.instagram.com/pranujm*
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=100&section=footer"/>
