@@ -16,7 +16,7 @@ Building ETL pipelines, designing databases, and automating lead tracking workfl
 * libraries: Pandas, NumPy, SciPy, Matplotlib, Qiksit, Scikit-Learn, PyTorch
 * tools: MySQL, PostgreSQL, Supabase, Jupyter Notebook, Microsoft Excel
 <br></br>
-### ✉️ contact
+### ☎️  contact me
 
 * ✉️ gmail: pmandavia24@gmail.com
 * 📫 outlook: mandap@rpi.edu
