@@ -4,7 +4,6 @@
 
 ## welcome 👋
 
-
 I am Pranuj Mandavia, an aspiring data scientist based in New Jersey.
 
 Studying **computer science (AI/ML & data science)** @ **RPI** with a minor in **quantum computing**.
