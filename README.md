@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&text=hello!&height=100&section=header"/>
+</p>
 
 ## welcome 👋
 <br></br>
@@ -21,4 +24,6 @@ Currently working on quantum algorithms for finance portfolio optimization & mac
 * 📫 outlook: *mandap@rpi.edu*
 * 💼 linkedin: *https://www.linkedin.com/in/pranujm*
   
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=100&section=footer"/>
+</p>
