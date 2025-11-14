@@ -6,7 +6,7 @@
 <br></br>
 I am Pranuj Mandavia, an aspiring data scientist based in New Jersey.
 
-Building ETL pipelines, designing databases, & automating lead tracking workflows as a **data analyst intern** @ Beyond AI. 
+Currently building ETL pipelines, designing databases, & automating workflows as a **data analyst intern** @ Beyond AI. 
 
 Currently working on quantum algorithms for finance portfolio optimization & machine learning for bioinformatics.
 <br></br>
