@@ -8,7 +8,7 @@ I am [Pranuj Mandavia](https://www.linkedin.com/in/pranujm/), an aspiring data s
 
 Studying **computer science** & **quantum computing** @ **RPI**. Also a **data analyst intern** @ **Beyond AI**. 
 
-I enjoy designing databases, digging into data to find patterns, and creating models that can learn from them.
+I enjoy designing databases, analyzing data to find patterns, and creating models that can learn from them.
 
 My hobbies include exercising, listening to music, watching anime, playing nintendo games, and reading manga/comics. 
 <br></br>
