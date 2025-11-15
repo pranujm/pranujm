@@ -16,7 +16,7 @@ Currently working on quantum algorithms for finance portfolio optimization & mac
 
 * 💬 languages: *Python, SQL, R, C/C++*
 * 📚 libraries: *Pandas, NumPy, SciPy, Matplotlib, Qiskit, Scikit-Learn, PyTorch*
-* 🛠️ tools: *MySQL, PostgreSQL, Supabase, Jupyter Notebook, Microsoft Excel*
+* 🛠️ tools: *MySQL, PostgreSQL, Power BI, Supabase, Jupyter Notebook, Microsoft Excel*
 <br></br>
 ### ☎️  contact me
 
