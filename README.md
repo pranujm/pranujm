@@ -6,9 +6,9 @@
 
 I am Pranuj Mandavia, an aspiring data scientist based in New Jersey.
 
-Studying **computer science (AI/ML & data science)** @ **RPI** with a minor in **quantum computing**.
+Studying **computer science** & **quantum computing** @ **RPI**. Also a **data analyst intern** @ Beyond AI. 
 
-Building ETL pipelines, designing databases, & automating workflows as a **data analyst intern** @ Beyond AI. 
+I love designing databases, digging into data to find patterns, and creating models that can learn from them.
 
 Currently working on quantum algorithms for finance portfolio optimization & machine learning for bioinformatics.
 <br></br>
