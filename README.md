@@ -4,13 +4,13 @@
 
 ## welcome 👋
 
-I am Pranuj Mandavia, an aspiring data scientist based in New Jersey.
+I am [Pranuj Mandavia](https://www.linkedin.com/in/pranujm/), an aspiring data scientist based in New Jersey.
 
-Studying **computer science** & **quantum computing** @ **RPI**. Also a **data analyst intern** @ Beyond AI. 
+Studying **computer science** & **quantum computing** @ **RPI**. Also a **data analyst intern** @ **Beyond AI**. 
 
 I love designing databases, digging into data to find patterns, and creating models that can learn from them.
 
-Currently working on quantum algorithms for finance portfolio optimization & machine learning for bioinformatics.
+My hobbies include going to the gym, listening to music, watching anime, and reading manga/comics. 
 <br></br>
 ### ⚙️  tech stack
 
@@ -22,7 +22,6 @@ Currently working on quantum algorithms for finance portfolio optimization & mac
 
 * ✉️ gmail: *pmandavia24@gmail.com*
 * 📫 outlook: *mandap@rpi.edu*
-* 💼 linkedin: *https://www.linkedin.com/in/pranujm*
   
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=100&section=footer"/>
