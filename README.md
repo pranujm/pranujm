@@ -10,7 +10,7 @@ Studying **computer science** & **quantum computing** @ **RPI**. Also a **data a
 
 I love designing databases, analyzing data to find patterns, and creating models that can learn from them.
 
-Hobbies: exercising, listening to music, playing nintendo games, going thrifting, watching anime, reading manga/comics. 
+My hobbies include exercising, listening to music, playing nintendo games, going thrifting, and watching anime.
 <br></br>
 ### ⚙️  tech stack
 
