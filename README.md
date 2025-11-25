@@ -15,7 +15,7 @@ My hobbies include exercising, listening to music, playing nintendo games, going
 ### ⚙️  tech stack
 
 * 💬 languages: *Python, SQL, R, C/C++*
-* 📚 libraries: *Pandas, NumPy, SciPy, Matplotlib, Qiskit, Scikit-Learn, PyTorch*
+* 📚 libraries: *Pandas, NumPy/SciPy, Matplotlib, Qiskit, PennyLane, Scikit-Learn, PyTorch*
 * 🛠️ tools: *MySQL, PostgreSQL, Supabase, Jupyter Notebook, Microsoft Excel*
 <br></br>
 ### ☎️  contact me
