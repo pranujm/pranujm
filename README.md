@@ -4,7 +4,7 @@
 
 ## welcome 👋
 
-I am [Pranuj Mandavia](https://www.linkedin.com/in/pranujm/), an aspiring data scientist based in New Jersey.
+I am [Pranuj Mandavia](https://www.linkedin.com/in/pranujm/), an aspiring **machine learning engineer** based in New Jersey.
 
 Studying **computer science** & **quantum computing** @ **RPI**. Also a **data analyst intern** @ **Beyond AI**. 
 
