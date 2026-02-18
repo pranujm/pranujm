@@ -6,9 +6,7 @@
 
 I am [Pranuj Mandavia](https://www.linkedin.com/in/pranujm/), an aspiring **machine learning engineer** based in New Jersey.
 
-Studying **computer science** & **quantum computing** @ **RPI**. Also a **data analyst intern** @ **Beyond AI**. 
-
-I enjoy designing **databases**, creating **LLMs**, and exploring the intersections between **ML** and **quantum computing**.
+Studying **computer science** @ **RPI**, and I enjoy exploring the intersections between **ML** and **quantum computing**.
 
 My hobbies include exercising, listening to music, playing nintendo games, going thrifting, and watching anime.
 <br></br>
