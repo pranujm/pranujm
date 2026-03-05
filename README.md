@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&text=hello!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&text=hello!&height=100&section=header"/>
 </p>
 
 ## welcome 👋
@@ -19,5 +19,5 @@ I enjoy exploring the intersections between **machine learning** and **quantum c
 * 📫 outlook: *mandap@rpi.edu*
   
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer"/>
 </p>
