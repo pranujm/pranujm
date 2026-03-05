@@ -8,7 +8,6 @@ I am [Pranuj Mandavia](https://www.linkedin.com/in/pranujm/), and I study **comp
 
 I enjoy exploring the intersections between **machine learning** and **quantum computing**.
 
-My hobbies include exercising, listening to music, playing nintendo games, going thrifting, and watching anime.
 <br></br>
 ### ⚙️  tech stack
 
