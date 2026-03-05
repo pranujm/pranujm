@@ -13,7 +13,7 @@ I enjoy exploring the intersections between **machine learning** and **quantum c
 * 💬 languages: *Python, SQL, R, C/C++*
 * 📚 libraries: *Pandas, NumPy/SciPy, Matplotlib, Qiskit, PennyLane, Scikit-Learn, PyTorch*
 <br></br>
-### ☎️  contact me
+### 📞  contact me
 
 * ✉️ gmail: *pmandavia24@gmail.com*
 * 📫 outlook: *mandap@rpi.edu*
