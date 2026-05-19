@@ -11,7 +11,7 @@ I have a concentration in **Information Systems**, and I enjoy learning about **
 ### ⚙️  tech stack
 
 * 💬 languages: *Python, SQL, R, C/C++*
-* 📚 libraries: *Pandas, NumPy/SciPy, Matplotlib, Qiskit, PennyLane, Scikit-Learn, PyTorch*
+* 📚 libraries: *Pandas, NumPy/SciPy, Matplotlib, Seaborn, Qiskit, PennyLane, Scikit-Learn, PyTorch*
 <br></br>
 ### 📞  contact me
 
