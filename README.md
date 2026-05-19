@@ -6,7 +6,7 @@
 
 I am [Pranuj Mandavia](https://www.linkedin.com/in/pranujm/), and I study **Information Technology & Web Science** @ **Rensselaer Polytechnic Institute**.
 
-I have a concentration in **Information Systems**, and I enjoy learning about **machine learning** and **quantum computing**.
+My concentration is in **Information Systems**, and I enjoy learning about **machine learning** and **quantum computing**.
 <br></br>
 ### ⚙️  tech stack
 
