@@ -6,12 +6,12 @@
 
 I am [Pranuj Mandavia](https://www.linkedin.com/in/pranujm/), and I study **Information Technology & Web Science** @ **Rensselaer Polytechnic Institute**.
 
-My concentration is in **Information Systems**, and I enjoy learning about **data engineering**, **machine learning**, and **quantum computing**.
+My concentration is in **Information Systems**, and I enjoy studying **data engineering**, **machine learning**, and **quantum computing**.
 <br></br>
 ### ⚙️  tech stack
 
-* 💬 languages: *Python, SQL, R, C/C++*
-* 📚 libraries: *Pandas, NumPy/SciPy, Matplotlib, Seaborn, Qiskit, PennyLane, Scikit-Learn, PyTorch*
+* 💬 languages: *Python, SQL (Supabase (PostgreSQL), MySQL), R, C/C++*
+* 📚 libraries: *Pandas, NumPy, SciPy, Matplotlib, Scikit-Learn, PyTorch, Tensorflow, Qiskit, PennyLane*
 <br></br>
 ### 📞  contact me
 
