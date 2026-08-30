@@ -10,8 +10,9 @@ concentration in **Management Information Systems**. Technical interests include
 <br></br>
 ### ⚙️  tech stack
 
-* 💬 languages: *Python, SQL (Supabase (PostgreSQL), MySQL), R, C/C++*
+* 💬 languages: *Python, SQL (PostgreSQL, MySQL, SQLite3), R, C/C++*
 * 📚 libraries: *Pandas, NumPy, SciPy, Matplotlib, Scikit-Learn, PyTorch, Tensorflow, Qiskit, PennyLane*
+* 🛠️ tools: *Jupyter Notebook, Supabase, Microsoft Excel*
 <br></br>
 ### 📞  contact me
 
