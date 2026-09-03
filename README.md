@@ -4,15 +4,15 @@
 
 ## welcome 👋
 
-I am [Pranuj Mandavia](https://www.linkedin.com/in/pranujm/), and I study **Information Technology & Web Science** @ **Rensselaer Polytechnic Institute** with a 
+I am [Pranuj Mandavia](https://www.linkedin.com/in/pranujm/), and I study **Computer Science** @ **Rensselaer Polytechnic Institute** with a 
 
-concentration in **Management Information Systems**. Technical interests include **data engineering**, **ML**, and **quantum computing**.
+concentration in **Data & Networking Systems**. Technical interests include **data engineering**, **computer networking**, and **quantum computing**.
 <br></br>
 ### ⚙️  tech stack
 
-* 💬 languages: *Python, SQL (PostgreSQL, MySQL, SQLite3), R, C/C++*
-* 📚 libraries: *Pandas, NumPy, SciPy, Matplotlib, Scikit-Learn, PyTorch, Tensorflow, Qiskit, PennyLane*
-* 🛠️ tools: *Jupyter Notebook, Supabase, Microsoft Excel*
+* 💬 networking & cloud: *TCP/IP, Cisco Packet Tracer, Network/System Automation, Switch/Router Configuration, AWS, Azure*
+* 📚 languages & scripting: *Python (Pandas, NumPy/SciPy, Scikit-Learn, PyTorch, Qiskit), Bash/Shell Scripting, Cron, C/C++*
+* 🛠️ databases & tools: *SQL (Supabase (PostgreSQL), MySQL, SQLite3), Git, GitHub, Jupyter Notebook*
 <br></br>
 ### 📞  contact me
 
