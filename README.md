@@ -11,8 +11,8 @@ I am [Pranuj Mandavia](https://www.linkedin.com/in/pranujm/), and I study **Comp
 ### ⚙️  tech stack
 
 * 💬 networking & cloud: *TCP/IP, Cisco Packet Tracer, Network/System Automation, Switch/Router Configuration, AWS, Azure*
-* 📚 languages & scripting: *Python (Pandas, NumPy/SciPy, Scikit-Learn, PyTorch, Qiskit), Bash/Shell Scripting, Cron, C/C++*
-* 🛠️ databases & tools: *SQL (Supabase (PostgreSQL), MySQL, SQLite3), Git, GitHub, Jupyter Notebook*
+* 📚 languages & scripting: *Python (Pandas, NumPy/SciPy, Scikit-Learn, Qiskit), Bash/Shell Scripting, Cron, C/C++*
+* 🛠️ databases & tools: *SQL (Supabase (PostgreSQL), MySQL, SQLite3), Git, GitHub, GitLab*
 <br></br>
 ### 📞  contact me
 
