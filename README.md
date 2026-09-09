@@ -6,7 +6,7 @@
 
 I am [Pranuj Mandavia](https://www.linkedin.com/in/pranujm/), and I study **Computer Science** @ **Rensselaer Polytechnic Institute** with a concentration in 
 
-**Systems & Software**. Technical interests include **data engineering**, **computer networking**, and **quantum computing**.
+**Systems & Software**. Technical interests include **network and database systems, and cloud infrastructure security**.
 <br></br>
 ### ⚙️  tech stack
 
