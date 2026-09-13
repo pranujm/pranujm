@@ -10,9 +10,9 @@ I am [Pranuj Mandavia](https://www.linkedin.com/in/pranujm/), and I study **Comp
 <br></br>
 ### ⚙️  tech stack
 
-* 💬 Networking & Cloud: *Cisco Packet Tracer, WireShark, System Automation, Switch/Router Config, AWS, Azure, Docker*
-* 📚 Languages & Scripting: *Python (Pandas, NumPy/SciPy, Scikit-Learn, Qiskit), Bash/Shell Scripting, Cron, C/C++*
-* 🛠️ Databases & Tools: *SQL (Supabase (PostgreSQL), MySQL, SQLite3), Git, GitHub, GitLab*
+* 💬 Networking & Cloud: *Cisco Packet Tracer, WireShark, System Configuration, AWS, Azure, Docker*
+* 📚 Languages & Scripting: *Python (Scikit-Learn, Qiskit), C/C++*, Bash/Shell Scripting
+* 🛠️ Databases & Tools: *SQL (Supabase (PostgreSQL), MySQL, SQLite3), Git, GitHub*
 <br></br>
 ### 📞  contact me
 
