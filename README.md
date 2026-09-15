@@ -9,39 +9,39 @@
 
 <p>
   <a href="https://www.linkedin.com/in/pranujm/">
-    <img src="https://img.shields.io/badge/LinkedIn-7e78d2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=7e78d2" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:pmandavia24@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-7e78d2?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-0d1117?style=flat-square&logo=gmail&logoColor=7e78d2" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:mandap@rpi.edu">
-    <img src="https://img.shields.io/badge/Outlook-7e78d2?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"/>
+    <img src="https://img.shields.io/badge/Outlook-0d1117?style=flat-square&logo=microsoftoutlook&logoColor=7e78d2" alt="Outlook"/>
   </a>
 </p>
 
 <br/>
 
-#### Tech Stack
+### Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/C-7e78d2?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=7e78d2" alt="C"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/C++-7e78d2?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=7e78d2" alt="C++"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Python-7e78d2?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=7e78d2" alt="Python"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SQL-7e78d2?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=7e78d2" alt="SQL"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Git-7e78d2?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=7e78d2" alt="AWS"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/AWS-7e78d2?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=7e78d2" alt="Git"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Docker-7e78d2?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=7e78d2" alt="Docker"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Wireshark-7e78d2?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=7e78d2" alt="Wireshark"/>
 </p>
 
 
