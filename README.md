@@ -28,9 +28,9 @@
   &nbsp;&nbsp;
   <img height="28" width="28" src="https://cdn.simpleicons.org/postgresql" alt="SQL" title="SQL"/>
   &nbsp;&nbsp;
-  <img height="28" width="28" src="https://api.iconify.design/simple-icons:amazonaws.svg?color=%23FF9900&height=28" alt="AWS" title="AWS"/>
-  &nbsp;&nbsp;
   <img height="28" width="28" src="https://cdn.simpleicons.org/git" alt="Git" title="Git"/>
+  &nbsp;&nbsp;
+  <img height="28" width="28" src="https://api.iconify.design/simple-icons:amazonaws.svg?color=%23FF9900&height=28" alt="AWS" title="AWS"/>
   &nbsp;&nbsp;
   <img height="28" width="28" src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker"/>
   &nbsp;&nbsp;
