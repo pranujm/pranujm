@@ -8,11 +8,11 @@
 </p>
 
 <sub>
-  <a href="https://www.linkedin.com/in/pranujm/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/pranujm/" target="_blank">LinkedIn</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:pmandavia24@gmail.com">Gmail</a>
+  <a href="mailto:pmandavia24@gmail.com" target="_blank">Gmail</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:mandap@rpi.edu">Outlook</a>
+  <a href="mailto:mandap@rpi.edu" target="_blank">Outlook</a>
 </sub>
 
 <br/><br/>
