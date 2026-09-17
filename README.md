@@ -4,7 +4,7 @@
 
 <p>
   Computer Science @ Rensselaer Polytechnic Institute<br/>
-  <sub>Specializing in Networking Systems & Software · Looking for Internships</sub>
+  <sub>Specializing in Network Systems & Software · Looking for Internships</sub>
 </p>
 
 <sub>
