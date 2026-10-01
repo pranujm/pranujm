@@ -20,11 +20,11 @@
 #### Tech Stack
 
 <p>
+  <img height="28" width="28" src="https://cdn.simpleicons.org/python" alt="Python" title="Python"/>
+  &nbsp;&nbsp;
   <img height="28" width="28" src="https://cdn.simpleicons.org/c" alt="C" title="C"/>
   &nbsp;&nbsp;
   <img height="28" width="28" src="https://cdn.simpleicons.org/cplusplus" alt="C++" title="C++"/>
-  &nbsp;&nbsp;
-  <img height="28" width="28" src="https://cdn.simpleicons.org/python" alt="Python" title="Python"/>
   &nbsp;&nbsp;
   <img height="28" width="28" src="https://cdn.simpleicons.org/postgresql" alt="SQL" title="SQL"/>
   &nbsp;&nbsp;
@@ -32,7 +32,7 @@
   &nbsp;&nbsp;
   <img height="28" width="28" src="https://api.iconify.design/simple-icons:amazonaws.svg?color=%23FF9900&height=28" alt="AWS" title="AWS"/>
   &nbsp;&nbsp;
-  <img height="28" width="28" src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker"/>
+  <img height="28" width="28" src="https://cdn.simpleicons.org/wireshark" alt="Wireshark" title="Wireshark"/>
 </p>
 
 </div>
