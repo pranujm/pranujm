@@ -4,6 +4,7 @@
 
 <p>
   Computer Science @ Rensselaer Polytechnic Institute<br/>
+  System Administrator @ Rensselaer Union
   <sub>Specializing in Systems & Software · Looking for Internships</sub>
 </p>
 
