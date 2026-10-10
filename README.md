@@ -22,17 +22,19 @@
 <p>
   <img height="28" width="28" src="https://cdn.simpleicons.org/python" alt="Python" title="Python"/>
   &nbsp;&nbsp;
-  <img height="28" width="28" src="https://cdn.simpleicons.org/c" alt="C" title="C"/>
+  <img height="28" width="28" src="https://cdn.simpleicons.org/cplusplus" alt="C/C++" title="C/C++"/>
   &nbsp;&nbsp;
-  <img height="28" width="28" src="https://cdn.simpleicons.org/cplusplus" alt="C++" title="C++"/>
+  <img height="28" width="28" src="https://api.iconify.design/mdi:database.svg?color=%23CC2927&height=28" alt="SQL" title="SQL"/>
   &nbsp;&nbsp;
-  <img height="28" width="28" src="https://cdn.simpleicons.org/postgresql" alt="SQL" title="SQL"/>
+  <img height="28" width="28" src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker"/>
   &nbsp;&nbsp;
-  <img height="28" width="28" src="https://cdn.simpleicons.org/git" alt="Git" title="Git"/>
+  <img height="28" width="28" src="https://cdn.simpleicons.org/nginx" alt="NGINX" title="NGINX"/>
   &nbsp;&nbsp;
   <img height="28" width="28" src="https://api.iconify.design/simple-icons:amazonaws.svg?color=%23FF9900&height=28" alt="AWS" title="AWS"/>
   &nbsp;&nbsp;
-  <img height="28" width="28" src="https://cdn.simpleicons.org/wireshark" alt="Wireshark" title="Wireshark"/>
+  <img height="28" width="28" src="https://api.iconify.design/logos:linux-tux.svg?height=28" alt="Linux" title="Linux"/>
+  &nbsp;&nbsp;
+  <img height="28" width="28" src="https://cdn.simpleicons.org/git" alt="Git" title="Git"/>
 </p>
 
 </div>
