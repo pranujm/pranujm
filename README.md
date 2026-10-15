@@ -22,8 +22,6 @@
 <p>
   <img height="28" width="28" src="https://cdn.simpleicons.org/python" alt="Python" title="Python"/>
   &nbsp;&nbsp;
-  <img height="28" width="28" src="https://cdn.simpleicons.org/cplusplus" alt="C/C++" title="C/C++"/>
-  &nbsp;&nbsp;
   <img height="28" width="28" src="https://api.iconify.design/mdi:database.svg?color=%23CC2927&height=28" alt="SQL" title="SQL"/>
   &nbsp;&nbsp;
   <img height="28" width="28" src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker"/>
