@@ -3,8 +3,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Be+Vietnam+Pro&weight=500&size=30&pause=1200&color=7e78d2&center=true&vCenter=true&width=640&height=60&lines=Pranuj+Mandavia;IT+%26+Systems+Engineering;System+Administration+%E2%80%A2+DevOps" alt="Pranuj Mandavia — Computer Science @ RPI" />
 
 <p>
-  Computer Science @ RPI • Sysadmin @ Rensselaer Union<br/>
-  <sub>Specializing in Systems & Software · Looking for Internships</sub>
+  Computer Science @ RPI · Sysadmin @ Rensselaer Union<br/>
+  <sub>Specializing in Systems & Software · Looking for Summer 2027 Internships</sub>
 </p>
 
 <sub>
@@ -22,7 +22,7 @@
 <p>
   <img height="28" width="28" src="https://cdn.simpleicons.org/python" alt="Python" title="Python"/>
   &nbsp;&nbsp;
-  <img height="28" width="28" src="https://api.iconify.design/mdi:database.svg?color=%23CC2927&height=28" alt="SQL" title="SQL"/>
+  <img height="28" width="28" src="https://cdn.simpleicons.org/gnubash" alt="Bash" title="Bash"/>
   &nbsp;&nbsp;
   <img height="28" width="28" src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker"/>
   &nbsp;&nbsp;
@@ -33,6 +33,8 @@
   <img height="28" width="28" src="https://api.iconify.design/logos:linux-tux.svg?height=28" alt="Linux" title="Linux"/>
   &nbsp;&nbsp;
   <img height="28" width="28" src="https://cdn.simpleicons.org/git" alt="Git" title="Git"/>
+  &nbsp;&nbsp;
+  <img height="28" width="28" src="https://cdn.simpleicons.org/gitlab" alt="GitLab" title="GitLab"/>
 </p>
 
 </div>
