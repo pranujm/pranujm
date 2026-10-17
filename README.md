@@ -22,7 +22,7 @@
 <p>
   <img height="28" width="28" src="https://cdn.simpleicons.org/python" alt="Python" title="Python"/>
   &nbsp;&nbsp;
-  <img height="28" width="28" src="https://cdn.simpleicons.org/gnubash" alt="Bash" title="Bash"/>
+  <img height="28" width="28" src="https://api.iconify.design/logos:bash-icon.svg?height=28" alt="Bash" title="Bash"/>
   &nbsp;&nbsp;
   <img height="28" width="28" src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker"/>
   &nbsp;&nbsp;
