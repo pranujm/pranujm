@@ -13,6 +13,8 @@
   <a href="mailto:pmandavia24@gmail.com">Gmail</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:mandap@rpi.edu">Outlook</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href=""C:\Users\pranuj\Desktop\PM___Final_Resume.pdf"">Resume</a>
 </sub>
 
 <br/><br/>
