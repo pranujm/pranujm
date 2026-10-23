@@ -26,9 +26,9 @@
   &nbsp;&nbsp;
   <img height="28" width="28" src="https://cdn.simpleicons.org/nginx" alt="NGINX" title="NGINX"/>
   &nbsp;&nbsp;
-  <img height="28" width="28" src="https://api.iconify.design/simple-icons:amazonaws.svg?color=%23FF9900&height=28" alt="AWS" title="AWS"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS"/>
   &nbsp;&nbsp;
-  <img height="28" width="28" src="https://api.iconify.design/logos:linux-tux.svg?height=28" alt="Linux" title="Linux"/>
+  <img height="28" width="28" src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" title="Linux"/>
   &nbsp;&nbsp;
   <img height="28" width="28" src="https://cdn.simpleicons.org/git" alt="Git" title="Git"/>
   &nbsp;&nbsp;
