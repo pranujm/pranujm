@@ -14,7 +14,7 @@
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:mandap@rpi.edu">Outlook</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/pranujm/pranujm/blob/main/PM___Final_Resume.pdf">Resume</a>
+  <a href="https://github.com/pranujm/pranujm/blob/main/PM_Final_Resume.pdf">Resume</a>
 </sub>
 
 <br/><br/>
