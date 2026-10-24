@@ -22,13 +22,15 @@
 #### Tech Stack
 
 <p>
+  <img height="28" width="28" src="https://cdn.simpleicons.org/cplusplus" alt="C++" title="C/C++"/>
+  &nbsp;&nbsp;
   <img height="28" width="28" src="https://cdn.simpleicons.org/python" alt="Python" title="Python"/>
+  &nbsp;&nbsp;
+  <img height="28" width="28" src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" title="Linux"/>
   &nbsp;&nbsp;
   <img height="28" width="28" src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker"/>
   &nbsp;&nbsp;
   <img height="28" width="28" src="https://cdn.simpleicons.org/nginx" alt="NGINX" title="NGINX"/>
-  &nbsp;&nbsp;
-  <img height="28" width="28" src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" title="Linux"/>
   &nbsp;&nbsp;
   <img height="28" width="28" src="https://cdn.simpleicons.org/git" alt="Git" title="Git"/>
   &nbsp;&nbsp;
