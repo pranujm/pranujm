@@ -26,7 +26,7 @@
   &nbsp;&nbsp;
   <img height="28" width="28" src="https://cdn.simpleicons.org/python" alt="Python" title="Python"/>
   &nbsp;&nbsp;
-  <img height="28" width="28" src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" title="Linux"/>
+  <img height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux"/>
   &nbsp;&nbsp;
   <img height="28" width="28" src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker"/>
   &nbsp;&nbsp;
