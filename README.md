@@ -28,8 +28,6 @@
   &nbsp;&nbsp;
   <img height="28" width="28" src="https://cdn.simpleicons.org/nginx" alt="NGINX" title="NGINX"/>
   &nbsp;&nbsp;
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS"/>
-  &nbsp;&nbsp;
   <img height="28" width="28" src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" title="Linux"/>
   &nbsp;&nbsp;
   <img height="28" width="28" src="https://cdn.simpleicons.org/git" alt="Git" title="Git"/>
