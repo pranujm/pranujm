@@ -27,21 +27,21 @@
   <tr>
     <td align="center">
       <br/>
-      &emsp;&emsp;
-      <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" alt="C++" title="C/C++"/>
-      &emsp;&emsp;
-      <img height="32" width="32" src="https://cdn.simpleicons.org/python" alt="Python" title="Python"/>
-      &emsp;&emsp;
-      <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux"/>
-      &emsp;&emsp;
-      <img height="32" width="32" src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker"/>
-      &emsp;&emsp;
-      <img height="32" width="32" src="https://cdn.simpleicons.org/nginx" alt="NGINX" title="NGINX"/>
-      &emsp;&emsp;
-      <img height="32" width="32" src="https://cdn.simpleicons.org/git" alt="Git" title="Git"/>
-      &emsp;&emsp;
-      <img height="32" width="32" src="https://cdn.simpleicons.org/gitlab" alt="GitLab" title="GitLab"/>
-      &emsp;&emsp;
+      &emsp;
+      <img height="26" width="26" src="https://cdn.simpleicons.org/cplusplus" alt="C++" title="C/C++"/>
+      &emsp;&ensp;
+      <img height="26" width="26" src="https://cdn.simpleicons.org/python" alt="Python" title="Python"/>
+      &emsp;&ensp;
+      <img height="26" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux"/>
+      &emsp;&ensp;
+      <img height="26" width="26" src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker"/>
+      &emsp;&ensp;
+      <img height="26" width="26" src="https://cdn.simpleicons.org/nginx" alt="NGINX" title="NGINX"/>
+      &emsp;&ensp;
+      <img height="26" width="26" src="https://cdn.simpleicons.org/git" alt="Git" title="Git"/>
+      &emsp;&ensp;
+      <img height="26" width="26" src="https://cdn.simpleicons.org/gitlab" alt="GitLab" title="GitLab"/>
+      &emsp;
       <br/>
       <br/>
     </td>
