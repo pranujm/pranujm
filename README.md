@@ -21,20 +21,29 @@
 
 #### Tech Stack
 
-<p>
-  <img height="28" width="28" src="https://cdn.simpleicons.org/cplusplus" alt="C++" title="C/C++"/>
-  &nbsp;&nbsp;
-  <img height="28" width="28" src="https://cdn.simpleicons.org/python" alt="Python" title="Python"/>
-  &nbsp;&nbsp;
-  <img height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux"/>
-  &nbsp;&nbsp;
-  <img height="28" width="28" src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker"/>
-  &nbsp;&nbsp;
-  <img height="28" width="28" src="https://cdn.simpleicons.org/nginx" alt="NGINX" title="NGINX"/>
-  &nbsp;&nbsp;
-  <img height="28" width="28" src="https://cdn.simpleicons.org/git" alt="Git" title="Git"/>
-  &nbsp;&nbsp;
-  <img height="28" width="28" src="https://cdn.simpleicons.org/gitlab" alt="GitLab" title="GitLab"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <br/>
+      &emsp;&emsp;
+      <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" alt="C++" title="C/C++"/>
+      &emsp;&emsp;
+      <img height="32" width="32" src="https://cdn.simpleicons.org/python" alt="Python" title="Python"/>
+      &emsp;&emsp;
+      <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux"/>
+      &emsp;&emsp;
+      <img height="32" width="32" src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker"/>
+      &emsp;&emsp;
+      <img height="32" width="32" src="https://cdn.simpleicons.org/nginx" alt="NGINX" title="NGINX"/>
+      &emsp;&emsp;
+      <img height="32" width="32" src="https://cdn.simpleicons.org/git" alt="Git" title="Git"/>
+      &emsp;&emsp;
+      <img height="32" width="32" src="https://cdn.simpleicons.org/gitlab" alt="GitLab" title="GitLab"/>
+      &emsp;&emsp;
+      <br/>
+      <br/>
+    </td>
+  </tr>
+</table>
 
 </div>
