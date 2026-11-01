@@ -21,6 +21,8 @@
 
 #### Tech Stack
 
+<br/>
+
 <table align="center">
   <tr>
     <td align="center">
