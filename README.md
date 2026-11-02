@@ -32,8 +32,6 @@
       &emsp;&ensp;
       <img height="26" width="26" src="https://cdn.simpleicons.org/python" alt="Python" title="Python"/>
       &emsp;&ensp;
-      <img height="26" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" title="SQL"/>
-      &emsp;&ensp;
       <img height="26" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux"/>
       &emsp;&ensp;
       <img height="26" width="26" src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker"/>
