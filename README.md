@@ -24,7 +24,7 @@
 </p>
 
 <p>&nbsp;</p>
-<hr/>
+<hr width="360"/>
 <p>&nbsp;</p>
 
 <p>
