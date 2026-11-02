@@ -2,8 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Be+Vietnam+Pro&weight=500&size=30&pause=1200&color=7089E0&center=true&vCenter=true&width=640&height=60&lines=Pranuj+Mandavia;IT+%26+Systems+Engineering" alt="Pranuj Mandavia — Computer Science @ RPI" />
 
-<br/><br/>
-
 <p>
   Computer Science @ RPI · Sysadmin @ Rensselaer Union<br/>
   <sub>Specializing in Systems & Software · Looking for Summer 2027 Internships</sub>
@@ -33,6 +31,8 @@
       <img height="26" width="26" src="https://cdn.simpleicons.org/cplusplus" alt="C++" title="C/C++"/>
       &emsp;&ensp;
       <img height="26" width="26" src="https://cdn.simpleicons.org/python" alt="Python" title="Python"/>
+      &emsp;&ensp;
+      <img height="26" width="26" src="https://cdn.simpleicons.org/postgresql" alt="SQL" title="SQL (PostgreSQL, MySQL)"/>
       &emsp;&ensp;
       <img height="26" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux"/>
       &emsp;&ensp;
