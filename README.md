@@ -24,32 +24,25 @@
 </p>
 
 <p>&nbsp;</p>
+<hr/>
+<p>&nbsp;</p>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <br/>
-      &emsp;
-      <img height="34" width="26" src="https://cdn.simpleicons.org/cplusplus" alt="C++" title="C/C++"/>
-      &emsp;&ensp;
-      <img height="34" width="26" src="https://cdn.simpleicons.org/python" alt="Python" title="Python"/>
-      &emsp;&ensp;
-      <img height="34" width="26" src="https://cdn.simpleicons.org/postgresql" alt="SQL" title="SQL (PostgreSQL, MySQL)"/>
-      &emsp;&ensp;
-      <img height="34" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux"/>
-      &emsp;&ensp;
-      <img height="34" width="26" src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker"/>
-      &emsp;&ensp;
-      <img height="34" width="26" src="https://cdn.simpleicons.org/nginx" alt="NGINX" title="NGINX"/>
-      &emsp;&ensp;
-      <img height="34" width="26" src="https://cdn.simpleicons.org/git" alt="Git" title="Git"/>
-      &emsp;&ensp;
-      <img height="34" width="26" src="https://cdn.simpleicons.org/gitlab" alt="GitLab" title="GitLab"/>
-      &emsp;
-      <br/>
-      <br/>
-    </td>
-  </tr>
-</table>
+<p>
+  <img height="26" width="26" src="https://cdn.simpleicons.org/cplusplus" alt="C++" title="C/C++"/>
+  &emsp;
+  <img height="26" width="26" src="https://cdn.simpleicons.org/python" alt="Python" title="Python"/>
+  &emsp;
+  <img height="26" width="26" src="https://cdn.simpleicons.org/postgresql" alt="SQL" title="SQL (PostgreSQL, MySQL)"/>
+  &emsp;
+  <img height="26" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux"/>
+  &emsp;
+  <img height="26" width="26" src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker"/>
+  &emsp;
+  <img height="26" width="26" src="https://cdn.simpleicons.org/nginx" alt="NGINX" title="NGINX"/>
+  &emsp;
+  <img height="26" width="26" src="https://cdn.simpleicons.org/git" alt="Git" title="Git"/>
+  &emsp;
+  <img height="26" width="26" src="https://cdn.simpleicons.org/gitlab" alt="GitLab" title="GitLab"/>
+</p>
 
 </div>
