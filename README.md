@@ -2,27 +2,28 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Be+Vietnam+Pro&weight=500&size=30&pause=1200&color=7089E0&center=true&vCenter=true&width=640&height=60&lines=Pranuj+Mandavia;IT+%26+Systems+Engineering" alt="Pranuj Mandavia — Computer Science @ RPI" />
 
+<br/><br/>
+
 <p>
   Computer Science @ RPI · Sysadmin @ Rensselaer Union<br/>
-  <sub>Specializing in Systems & Software · Looking for Summer 2027 Internships</sub>
+  <sub>Looking for Summer 2027 Internships</sub>
 </p>
 
-<sub>
-  <a href="https://www.linkedin.com/in/pranujm/">LinkedIn</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:pmandavia24@gmail.com">Gmail</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:mandap@rpi.edu">Outlook</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/pranujm/pranujm/blob/main/PM_Final_Resume.pdf">Resume</a>
-</sub>
+<br/>
+
+<p>
+  <sub>
+    <a href="https://www.linkedin.com/in/pranujm/">LinkedIn</a>
+    &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="mailto:pmandavia24@gmail.com">Gmail</a>
+    &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="mailto:mandap@rpi.edu">Outlook</a>
+    &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="https://github.com/pranujm/pranujm/blob/main/PM_Final_Resume.pdf">Resume</a>
+  </sub>
+</p>
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-
-
-#### Tech Stack
-
 <p>&nbsp;</p>
 
 <table align="center">
