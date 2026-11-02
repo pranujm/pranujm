@@ -17,11 +17,11 @@
   <a href="https://github.com/pranujm/pranujm/blob/main/PM_Final_Resume.pdf">Resume</a>
 </sub>
 
-<br/><br/>
+<p>&nbsp;</p>
 
 #### Tech Stack
 
-<br/>
+<p>&nbsp;</p>
 
 <table align="center">
   <tr>
