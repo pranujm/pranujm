@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Be+Vietnam+Pro&weight=500&size=30&pause=1200&color=7089E0&center=true&vCenter=true&width=640&height=60&lines=Pranuj+Mandavia;IT+%26+Systems+Engineering" alt="Pranuj Mandavia — Computer Science @ RPI" />
 
-<br/><br/>
+<br/>
 
 <p>
   Computer Science @ RPI · Sysadmin @ Rensselaer Union<br/>
@@ -23,7 +23,6 @@
   </sub>
 </p>
 
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 
 <table align="center">
