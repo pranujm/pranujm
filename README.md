@@ -5,7 +5,7 @@
 <br/>
 
 <p>
-  Computer Science @ RPI · Sysadmin @ Rensselaer Union<br/>
+  CS & ITWS @ RPI · Sysadmin @ Rensselaer Union<br/>
   <sub>Looking for Summer 2027 Internships</sub>
 </p>
 
@@ -28,8 +28,6 @@
 <p>&nbsp;</p>
 
 <p>
-  <img height="26" width="26" src="https://cdn.simpleicons.org/cplusplus" alt="C++" title="C/C++"/>
-  &emsp;
   <img height="26" width="26" src="https://cdn.simpleicons.org/python" alt="Python" title="Python"/>
   &emsp;
   <img height="26" width="26" src="https://cdn.simpleicons.org/postgresql" alt="SQL" title="SQL (PostgreSQL, MySQL)"/>
