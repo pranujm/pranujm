@@ -5,7 +5,7 @@
 <br/>
 
 <p>
-  Computer Science and IT & Web Science @ RPI<br/>
+  Computer Science @ Rensselaer Polytechnic Institute<br/>
   <sub>Looking for Summer 2027 Internships</sub>
 </p>
 
