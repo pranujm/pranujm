@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Be+Vietnam+Pro&weight=500&size=30&pause=1200&color=7089E0&center=true&vCenter=true&width=640&height=60&lines=Pranuj+Mandavia;System+Administration;Web+Development+%26+Design" alt="Pranuj Mandavia — Computer Science @ RPI" />
+<img src="https://readme-typing-svg.demolab.com?font=Be+Vietnam+Pro&weight=500&size=30&pause=1200&color=7089E0&center=true&vCenter=true&width=640&height=60&lines=Pranuj+Mandavia;IT+%26+Systems+Engineering" alt="Pranuj Mandavia — Computer Science @ RPI" />
 
 <br/>
 
@@ -18,8 +18,6 @@
     <a href="mailto:pmandavia24@gmail.com">Gmail</a>
     &nbsp;&nbsp;·&nbsp;&nbsp;
     <a href="mailto:mandap@rpi.edu">Outlook</a>
-    &nbsp;&nbsp;·&nbsp;&nbsp;
-    <a href="https://github.com/pranujm/pranujm/blob/main/PM_Final_Resume.pdf">Resume</a>
   </sub>
 </p>
 
